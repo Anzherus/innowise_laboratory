@@ -1,7 +1,7 @@
 """
 Hello World Color Printer
 
-This module provides functionality to print colored "Hello World" messages
+This module provides functionality to print colored "Hello World!" messages
 to the terminal using the colorama library for cross-platform compatibility.
 """
 
