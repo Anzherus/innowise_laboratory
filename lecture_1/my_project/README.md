@@ -6,6 +6,7 @@
 ![Poetry](https://img.shields.io/badge/packaging-poetry-cyan)
 ![Tests](https://img.shields.io/badge/tests-19%20passed-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-88%25-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 **A professional Python project demonstrating modern development practices with colorful terminal output**
 
