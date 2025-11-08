@@ -2,7 +2,7 @@
 name = "hello-world-color"
 version = "0.1.0"
 description = "A colorful Hello World application demonstrating Python project setup"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Anzherus <slusar0stanislav@gmail.com>"]
 readme = "README.md"
 license = "MIT"
 keywords = ["hello-world", "colors", "terminal", "education"]
@@ -23,6 +23,7 @@ packages = [{include = "*.py"}]
 [tool.poetry.dependencies]
 python = "^3.13"
 colorama = "^0.4.6"
+package-name = "^0.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.0"
@@ -31,6 +32,7 @@ black = "^23.0.0"
 flake8 = "^6.0.0"
 mypy = "^1.0.0"
 pre-commit = "^3.0.0"
+package-name = "^0.1"
 
 [tool.poetry.scripts]
 hello-color = "main:main"
